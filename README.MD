@@ -22,32 +22,4 @@
 
 ---
 
-## 📁 Project Structure
-
-```
-gunslol-template/
-├── index.html              # Page structure — no need to edit
-├── css/
-│   └── style.css           # Visual styles — no need to edit
-├── js/
-│   ├── config.js           ✏️ THE ONLY FILE YOU NEED TO EDIT
-│   └── script.js           # Page logic — no need to edit
-└── assets/
-    ├── avatar.jpg          # Your profile photo
-    ├── background.mp4      # Background video
-    ├── cursor.png          # Custom cursor image
-    ├── favicon.png         # Browser tab icon
-    ├── badges/             # Your badge/role GIFs or PNGs
-    ├── fonts/              # Your custom font (rename to fuente.otf)
-    └── icons/
-        ├── instagram.png   # Social link icons
-        ├── spotify.png
-        ├── tiktok.png
-        └── status/         # Discord status icons
-            ├── online.png
-            ├── idle.png (inactive.png)
-            ├── dnd.png (busy.png)
-            └── offline.png
-```
-
 </div>
